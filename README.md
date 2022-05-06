@@ -16,3 +16,5 @@ You are using this tool at your one risk.
 Download the latest .exe file from the [release page](https://github.com/basicx-StrgV/Windows11Patcher/releases) and run it.  
 The tool will then go through every possible patch and ask you if you want to apply it.  
 If a patch is already applied it will ask you if you want to remove the patch.  
+
+Restart your system after applying or removing patches.
