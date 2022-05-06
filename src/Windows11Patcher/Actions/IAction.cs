@@ -1,4 +1,8 @@
-﻿namespace Windows11Patcher.Actions
+﻿//--------------------------------------------------//
+// Created by basicx-StrgV                          //
+// https://github.com/basicx-StrgV/                 //
+//--------------------------------------------------//
+namespace Windows11Patcher.Actions
 {
     public interface IAction
     {

@@ -1,4 +1,8 @@
-﻿namespace Windows11Patcher.HelperClasses
+﻿//--------------------------------------------------//
+// Created by basicx-StrgV                          //
+// https://github.com/basicx-StrgV/                 //
+//--------------------------------------------------//
+namespace Windows11Patcher.HelperClasses
 {
     public static class ArrayManager
     {

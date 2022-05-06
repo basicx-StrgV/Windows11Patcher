@@ -2,13 +2,14 @@
 // Created by basicx-StrgV                          //
 // https://github.com/basicx-StrgV/                 //
 //--------------------------------------------------//
-namespace Windows11Patcher.Runtime
+namespace Windows11Patcher.HelperClasses
 {
-    public interface IRuntime
+    public enum LogType
     {
-        /// <summary>
-        /// Starts the runtime process.
-        /// </summary>
-        public void Run();
+        Info,
+        Warning,
+        Error,
+        Question,
+        Success
     }
 }

@@ -1,4 +1,8 @@
-﻿using Windows11Patcher.Actions;
+﻿//--------------------------------------------------//
+// Created by basicx-StrgV                          //
+// https://github.com/basicx-StrgV/                 //
+//--------------------------------------------------//
+using Windows11Patcher.Actions;
 using Windows11Patcher.HelperClasses;
 
 namespace Windows11Patcher.Runtime
