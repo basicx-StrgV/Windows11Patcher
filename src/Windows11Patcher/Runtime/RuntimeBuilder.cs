@@ -29,9 +29,16 @@ namespace Windows11Patcher.Runtime
         private IAction[] GetAllPatchActions(bool autoRun = false)
         {
             IAction[] actions = new IAction[0];
-            actions = ArrayManager.AddEntry(
+            /*actions = ArrayManager.AddEntry(
                 actions,
                 new ContextMenuPatchAction()
+                {
+                    AutoRun = autoRun
+                });*/
+
+            actions = ArrayManager.AddEntry(
+                actions,
+                new RoundedCornersPatchAction()
                 {
                     AutoRun = autoRun
                 });
