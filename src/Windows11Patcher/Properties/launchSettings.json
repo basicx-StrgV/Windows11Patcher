@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Windows11Patcher": {
+      "commandName": "Project",
+      "remoteDebugEnabled": true,
+      "remoteDebugMachine": "Win11-Test",
+      "authenticationMode": "Windows"
+    }
+  }
+}
