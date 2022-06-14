@@ -1,4 +1,4 @@
-# Windows11Patcher
+# Windows11Patcher (WIP)
 This tool aims to make the Windows 11 experience more bearable, by patching parts that are annoying to use, like the new context menu, or you might not like but can’t change that easily.
 
 ## Features
